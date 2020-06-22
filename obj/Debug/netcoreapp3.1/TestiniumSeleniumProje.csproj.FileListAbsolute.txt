@@ -1,0 +1,16 @@
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/TestiniumSeleniumProje.deps.json
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/TestiniumSeleniumProje.runtimeconfig.json
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/TestiniumSeleniumProje.runtimeconfig.dev.json
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/TestiniumSeleniumProje.dll
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/TestiniumSeleniumProje.pdb
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.csprojAssemblyReference.cache
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.AssemblyInfoInputs.cache
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.AssemblyInfo.cs
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.csproj.CoreCompileInputs.cache
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.csproj.CopyComplete
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.dll
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.pdb
+/Users/saidahmetbayrak/Testinium_Selenium_Proje/obj/Debug/netcoreapp3.1/TestiniumSeleniumProje.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1URO9ecyMwEqJmqV9mLmkLnM9IlmlohceGenudWLOXLyNpRP6YLiASk6/oe1v/+Oy8USf1FkABZW/BCYT4EfA==",
+  "success": true,
+  "projectFilePath": "/Users/saidahmetbayrak/Testinium_Selenium_Proje/TestiniumSeleniumProje.csproj",
+  "expectedPackageFiles": [
+    "/Users/saidahmetbayrak/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/saidahmetbayrak/.nuget/packages/selenium.support/4.0.0-alpha05/selenium.support.4.0.0-alpha05.nupkg.sha512",
+    "/Users/saidahmetbayrak/.nuget/packages/selenium.webdriver/4.0.0-alpha05/selenium.webdriver.4.0.0-alpha05.nupkg.sha512"
+  ],
+  "logs": []
+}
